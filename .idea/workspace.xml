@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="feceec5e-96d0-4502-b670-f0962ee2b461" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="XML Properties File" />
+        <option value="spring project" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VssnxJmSU2DXtmpUCBwnsc1gqW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring-SpringMVC-Mybatis" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/Mybatis" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/ssm/mapper" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/ssm/xmlmapper" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/ssm/bean" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="mybatisGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssm.generator.mybatisGenerator" />
+      <module name="Spring-Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ssm.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mybatisGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feceec5e-96d0-4502-b670-f0962ee2b461" name="Default Changelist" comment="" />
+      <created>1578053307812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578053307812</updated>
+      <workItem from="1578053316974" duration="11000" />
+      <workItem from="1578053434469" duration="11532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="158" width="804" height="673" key="#HTTP_Proxy" timestamp="1578219303087">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="549" y="158" width="804" height="673" key="#HTTP_Proxy/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578219303087" />
+    <state x="553" y="196" width="804" height="673" key="#Notifications" timestamp="1578061286004">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="553" y="196" width="804" height="673" key="#Notifications/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578061286004" />
+    <state x="451" y="124" width="935" height="677" key="#Project_Structure" timestamp="1578216970421">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="451" y="124" width="935" height="677" key="#Project_Structure/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578216970421" />
+    <state x="408" y="172" width="1160" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578218253023">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="408" y="172" width="1160" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578218253023" />
+    <state x="200" y="229" width="856" height="781" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1578205782673">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="200" y="229" width="856" height="781" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578205782673" />
+    <state x="791" y="426" width="328" height="212" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578204383363">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="791" y="426" width="328" height="212" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578204383363" />
+    <state x="96" y="111" width="1718" height="843" key="DiffContextDialog" timestamp="1578204361238">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="96" y="111" width="1718" height="843" key="DiffContextDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578204361238" />
+    <state x="574" y="253" width="758" height="510" key="FileChooserDialogImpl" timestamp="1578302499933">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="574" y="253" width="758" height="510" key="FileChooserDialogImpl/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578302499933" />
+    <state width="1872" height="253" key="GridCell.Tab.0.bottom" timestamp="1578240237016">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578240237016" />
+    <state width="1872" height="253" key="GridCell.Tab.0.center" timestamp="1578240237016">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="253" key="GridCell.Tab.0.center/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578240237016" />
+    <state width="1872" height="253" key="GridCell.Tab.0.left" timestamp="1578240237016">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="253" key="GridCell.Tab.0.left/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578240237016" />
+    <state width="1872" height="253" key="GridCell.Tab.0.right" timestamp="1578240237016">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1872" height="253" key="GridCell.Tab.0.right/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578240237016" />
+    <state x="369" y="271" width="1172" height="523" key="IDE.errors.dialog" timestamp="1578205033247">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="369" y="271" width="1172" height="523" key="IDE.errors.dialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578205033247" />
+    <state x="396" y="242" key="SettingsEditor" timestamp="1578219857197">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="396" y="242" key="SettingsEditor/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578219857197" />
+    <state x="555" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1578302477070">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="338" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578302477070" />
+    <state x="266" y="123" width="1373" height="771" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1578219795054">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="266" y="123" width="1373" height="771" key="com.intellij.javaee.MapExternalResourceDialog/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578219795054" />
+    <state x="427" y="63" width="1066" height="990" key="find.popup" timestamp="1578060137818">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="427" y="63" width="1066" height="990" key="find.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578060137818" />
+    <state x="162" y="206" width="893" height="799" key="spring file set editor" timestamp="1578060514419">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="162" y="206" width="893" height="799" key="spring file set editor/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1578060514419" />
+  </component>
+</project>
